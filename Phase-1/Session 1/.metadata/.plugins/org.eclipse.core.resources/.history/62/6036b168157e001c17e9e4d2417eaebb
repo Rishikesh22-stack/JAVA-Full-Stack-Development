@@ -1,0 +1,16 @@
+package com.simplilearn.first.conditional;
+
+public class Loop {
+	
+	public static void main(String[] args) {
+		
+		//print my name 5 times
+		int i=1;
+		while(i<=5)
+		{
+			System.out.println(i+".Rishi");
+			i++;//increase the value of I by 1
+		}
+	}
+
+}

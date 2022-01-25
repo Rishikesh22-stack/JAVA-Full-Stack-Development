@@ -1,0 +1,14 @@
+package com.simplilearn.lvcanother;
+
+import com.simplilearn.lvc.ProtectedAccessSpecifier;
+
+public class ProtectedAccess extends ProtectedAccessSpecifier{
+
+	public static void main(String[] args) {
+		
+		ProtectedAccess p=new ProtectedAccess();
+		p.display();
+		
+		//child can access protected property but not private
+	}
+}

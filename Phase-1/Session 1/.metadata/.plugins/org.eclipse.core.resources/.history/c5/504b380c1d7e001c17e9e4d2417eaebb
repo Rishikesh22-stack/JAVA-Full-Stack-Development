@@ -1,0 +1,9 @@
+package com.simplilearn.lvc;
+
+public class ProtectedAccessSpecifier {
+
+	protected void display()
+	{
+		System.out.println("You are accessing protected method of this class");
+	}
+}

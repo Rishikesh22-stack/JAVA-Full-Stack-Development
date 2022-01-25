@@ -1,0 +1,11 @@
+package com.simplilearn.lvc;
+
+//default class
+class DefAccessSpecifier {
+	
+	void display()
+	{
+		System.out.println("I am accessing Default Accecc Specifier");
+	}
+
+}

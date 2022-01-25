@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Mphasis Training\Phase-1\Session 1\.metadata\.plugins\org.eclipse.jdt.core
+760091825.index
+1865797976.index
+107573622.index

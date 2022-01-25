@@ -1,0 +1,10 @@
+package com.simplilearn.lvc;
+
+public class TestAccessSpecifier {
+
+	public static void main(String[] args) {
+		//default accessible in same package
+		DefAccessSpecifier def= new DefAccessSpecifier();
+		def.display();
+	}
+}

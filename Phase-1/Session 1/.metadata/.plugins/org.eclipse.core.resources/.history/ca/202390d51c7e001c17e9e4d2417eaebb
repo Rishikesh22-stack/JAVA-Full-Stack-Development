@@ -1,0 +1,8 @@
+package com.simplilearn.lvcanother;
+
+import com.simplilearn.lvc.ProtectedAccessSpecifier;
+
+public class ProtectedAccess extends ProtectedAccessSpecifier{
+
+
+}
